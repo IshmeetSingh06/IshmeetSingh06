@@ -11,8 +11,8 @@ Constantly looking for opportunities to acquire new technical skills.
 
 
 - 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning App Development
-- 📫 How to reach me www.linkedin.com/in/ishmeet-singh-1b2359206/
+- 🌱 I’m currently learning Web Development
+
 
 <h2 align="center">Tech Stack</h2>
 <p align="center">
@@ -21,7 +21,7 @@ Constantly looking for opportunities to acquire new technical skills.
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/-python-E34A86?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/-Python-E34A86?style=flat-square&logo=Python"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin"/>
 <!-- <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/> -->
@@ -31,6 +31,7 @@ Constantly looking for opportunities to acquire new technical skills.
 <p align="center">Feel free reaching out to me at following platforms:</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ishmeet-singh-1b2359206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.instagram.com/ishmeetsingh06/"><img src="https://img.shields.io/badge/Instagram-E34A86?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=IshmeetSingh06&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
