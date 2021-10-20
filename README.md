@@ -11,7 +11,9 @@ Constantly looking for opportunities to acquire new technical skills.
 
 
 - 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning Web Development
+- 🌱 I'm Looking To Collaborate on Open Source Projects
+- 🎲 I’m currently learning Web Development 
+- 📧 Email Me At singhishmeet16@gmail.com
 
 
 <h2 align="center">Tech Stack</h2>
