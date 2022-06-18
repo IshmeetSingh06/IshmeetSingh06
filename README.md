@@ -26,7 +26,7 @@ Constantly looking for opportunities to acquire new technical skills.
 <img src="https://img.shields.io/badge/-Python-E34A86?style=flat-square&logo=Python"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin"/>
-<!-- <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/> -->
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
